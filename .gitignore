@@ -86,3 +86,6 @@ lint/tmp/
 
 # Android Profiling
 *.hprof
+/.idea/.gitignore
+/.idea/codeStyles/Project.xml
+/.idea/encodings.xml
