@@ -103,6 +103,3 @@ lint/tmp/
 /captures
 .externalNativeBuild
 .cxx
-/.idea/.gitignore
-/.idea/encodings.xml
-/.idea/vcs.xml
